@@ -15,7 +15,7 @@ Education
 * M.S. Molecular Ecology, Heinrich Heine University, Germany, 2019
 * B.S. Biolog, Heinrrich Heine University, Germany, 2017
 
-Work experience
+Work experience & Stuff
 ======
 * Spring 2024: Academic Pages Collaborator
   * Github University
